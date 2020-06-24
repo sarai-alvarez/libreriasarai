@@ -1,0 +1,39 @@
+<resources>
+
+    <!--pantalla uno-->
+    <string name="title1">Bienvenido</string>
+    <string name="desc1">Defenza de la tarea final HITO 3</string>
+
+    <!--pantalla dos-->
+    <string name="title2">Grandes premios</string>
+    <string name="desc2">5to semestre      </string>
+    <string name="desc5">carrera ingenieria de sistemas</string>
+    <!--pantalla tres-->
+    <string name="title3">Calculadora cientifica</string>
+    <string name="desc3">con shif</string>
+
+    <!--botonera-->
+    <string name="next">Siguiente</string>
+    <string name="back">Atrás</string>
+    <string name="done">Finalizar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">Email</string>
+    <string name="pasword">Pasword</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+
+
+    <string name="username">username</string>
+    <string name="password">password</string>
+
+
+    <string name="texto">CALCULADORAS</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="cientifica">h3 calculadora cientifica</string>
+    <string name="nombre">Sarai Alvarez</string>
+</resources>
